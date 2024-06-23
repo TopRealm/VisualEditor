@@ -1,7 +1,7 @@
 /*!
  * VisualEditor user interface MWTemplatesUsedPage class.
  *
- * @copyright 2011-2016 VisualEditor Team and others; see AUTHORS.txt
+ * @copyright See AUTHORS.txt
  * @license The MIT License (MIT); see LICENSE.txt
  */
 
@@ -29,6 +29,10 @@ ve.ui.MWTemplatesUsedPage = function VeUiMWTemplatesUsedPage() {
 		icon: 'puzzle'
 	} );
 
+	this.templatesUsedFieldset.$group.addClass( [
+		'mw-body-content'
+	] );
+
 	target.getContentApi().get( {
 		action: 'visualeditor',
 		paction: 'templatesused',
@@ -44,10 +48,10 @@ ve.ui.MWTemplatesUsedPage = function VeUiMWTemplatesUsedPage() {
 	} ).then( function ( templatesUsed ) {
 		// templatesUsed is an array of nodes
 		// eslint-disable-next-line no-jquery/no-append-html
-		page.templatesUsedFieldset.$element.append( templatesUsed );
-		ve.targetLinksToNewWindow( page.templatesUsedFieldset.$element[ 0 ] );
+		page.templatesUsedFieldset.$group.append( templatesUsed );
+		ve.targetLinksToNewWindow( page.templatesUsedFieldset.$group[ 0 ] );
 	}, function () {
-		page.templatesUsedFieldset.$element.append(
+		page.templatesUsedFieldset.$group.append(
 			$( '<em>' ).text( ve.msg( 'visualeditor-dialog-meta-templatesused-noresults' ) )
 		);
 	} );

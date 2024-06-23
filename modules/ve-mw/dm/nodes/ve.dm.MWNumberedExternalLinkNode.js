@@ -1,7 +1,7 @@
 /*!
  * VisualEditor DataModel MWNumberedExternalLinkNode class.
  *
- * @copyright 2011-2020 VisualEditor Team and others; see AUTHORS.txt
+ * @copyright See AUTHORS.txt
  * @license The MIT License (MIT); see LICENSE.txt
  */
 
@@ -38,6 +38,9 @@ ve.dm.MWNumberedExternalLinkNode.static.isContent = true;
 ve.dm.MWNumberedExternalLinkNode.static.matchTagNames = [ 'a' ];
 
 ve.dm.MWNumberedExternalLinkNode.static.matchRdfaTypes = [ 'mw:ExtLink', 've:NumberedLink' ];
+
+// Allow additional 'rel' values in Parsoid output (T321437)
+ve.dm.MWNumberedExternalLinkNode.static.allowedRdfaTypes = [ 'nofollow', 'noreferrer', 'noopener' ];
 
 ve.dm.MWNumberedExternalLinkNode.static.disallowedAnnotationTypes = [ 'link' ];
 

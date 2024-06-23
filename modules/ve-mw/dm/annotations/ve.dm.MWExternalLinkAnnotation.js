@@ -1,7 +1,7 @@
 /*!
  * VisualEditor DataModel MWExternalLinkAnnotation class.
  *
- * @copyright 2011-2020 VisualEditor Team and others; see AUTHORS.txt
+ * @copyright See AUTHORS.txt
  * @license The MIT License (MIT); see LICENSE.txt
  */
 
@@ -35,6 +35,8 @@ OO.inheritClass( ve.dm.MWExternalLinkAnnotation, ve.dm.LinkAnnotation );
 
 ve.dm.MWExternalLinkAnnotation.static.name = 'link/mwExternal';
 
+// Allow additional 'rel' values in Parsoid output (T321437)
+// Allow all unknown types for external paste (handled in toDataElement)
 ve.dm.MWExternalLinkAnnotation.static.allowedRdfaTypes = null;
 
 ve.dm.MWExternalLinkAnnotation.static.toDataElement = function ( domElements, converter ) {
