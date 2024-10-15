@@ -19,6 +19,10 @@
 			"아라"
 		]
 	},
+	"tag-editcheck-newcontent-description": "Muokkaustarkistimen mukaan uutta sisältöä lisättiin sivulle",
+	"tag-editcheck-newreference-description": "Lähde lisättiin tälle sivulle",
+	"tag-editcheck-references-description": "Muokkaustarkistimen mukaan lähde olisi ehkä ollut tarpeen",
+	"tag-editcheck-references-activated-description": "Muokkaustarkistimen mukaan lähde olisi ehkä ollut tarpeen, ja käyttöliittymä näytettiin",
 	"tag-visualeditor": "[[{{MediaWiki:visualeditor-descriptionpagelink}}|Visuaalinen muokkaus]]",
 	"tag-visualeditor-description": "Muutos tehtiin [[{{MediaWiki:visualeditor-descriptionpagelink}}|visuaalisella muokkaimella]]",
 	"tag-visualeditor-needcheck": "[[{{MediaWiki:visualeditor-descriptionpagelink}}|Visuaalinen muokkaus: Tarkista]]",

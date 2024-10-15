@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aey Tai Nuea",
 			"咽頭べさ"
 		]
 	},
@@ -27,13 +28,12 @@
 	"visualeditor-clipboard-paste": "ᥖᥛᥰ",
 	"visualeditor-clipboard-paste-special": "ᥖᥛᥰᥢᥒᥱ ᥖᥨᥝᥱᥘᥤᥐᥲ ᥘᥩᥢᥳᥘᥩᥢᥳ",
 	"visualeditor-commentannotationcontextitem-comment": "ᥖᥣᥒᥰᥞᥢᥴᥗᥪᥒᥴ",
-	"visualeditor-commentinspector-edit": "ᥛᥦᥰᥗᥖᥰ ᥑᥩᥲᥞᥢᥴᥗᥪᥒᥴ",
 	"visualeditor-commentinspector-title": "ᥖᥣᥒᥰᥞᥢᥴᥗᥪᥒᥴ",
 	"visualeditor-commentinspector-tooltip": "ᥖᥣᥒᥰᥞᥢᥴᥗᥪᥒᥴ",
 	"visualeditor-content-select-all": "ᥘᥫᥐᥲᥛᥨᥖᥰ",
 	"visualeditor-contextitemwidget-label-close": "ᥞᥙᥰ",
 	"visualeditor-contextitemwidget-label-remove": "ᥛᥩᥖᥱᥙᥦᥖᥲ",
-	"visualeditor-contextitemwidget-label-secondary": "ᥛᥨᥢᥳᥛᥦᥰ",
+	"visualeditor-contextitemwidget-label-secondary": "ᥛᥨᥢᥳ ᥛᥥᥰ",
 	"visualeditor-contextitemwidget-label-view": "ᥘᥧᥴᥖᥨᥭᥰ",
 	"visualeditor-debugbar-close": "ᥞᥙᥰ",
 	"visualeditor-debugbar-updatemodel": "ᥟᥣᥙᥳᥖᥥᥐᥳᥢᥫᥴ ᥘᥩᥒᥲᥘᥦᥒᥲᥘᥣᥭᥲ",

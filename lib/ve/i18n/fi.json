@@ -25,6 +25,7 @@
 			"Skalman",
 			"Stryn",
 			"Surjection",
+			"Valtlai",
 			"Valtlait",
 			"VezonThunder"
 		]
@@ -84,7 +85,6 @@
 	"visualeditor-command-dialog-confirm": "Vahvista muutos",
 	"visualeditor-command-dialog-focus-context": "Siirrä kohdistus asiayhteyteen avautuvaan ponnahdusikkunaan",
 	"visualeditor-commentannotationcontextitem-comment": "Kommentti",
-	"visualeditor-commentinspector-edit": "Muokkaa kommenttia",
 	"visualeditor-commentinspector-title": "Kommentti",
 	"visualeditor-commentinspector-tooltip": "Kommentti",
 	"visualeditor-content-select-all": "Valitse kaikki",
@@ -120,7 +120,6 @@
 	"visualeditor-dimensionswidget-px": "px",
 	"visualeditor-dimensionswidget-times": "×",
 	"visualeditor-find-and-replace-diacritic": "Tarkemerkeistä piittaamaton",
-	"visualeditor-find-and-replace-diacritic-unavailable": "Tarkemerkeistä piittaamaton hakutoiminto ei ole saatavana tällä selaimella",
 	"visualeditor-find-and-replace-done": "Valmis",
 	"visualeditor-find-and-replace-find-text": "Etsi",
 	"visualeditor-find-and-replace-invalid-regex": "Virheellinen säännöllinen lauseke",
