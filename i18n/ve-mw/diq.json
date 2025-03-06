@@ -14,7 +14,8 @@
 			"Mirzali",
 			"Orbot707",
 			"Se4598",
-			"TMg"
+			"TMg",
+			"GolyatGeri"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -33,7 +34,6 @@
 	"visualeditor-autosave-recovered-text": "Vurnayışê şımayê ke qeyd nêbiyê otomatik reyneyay..",
 	"visualeditor-autosave-recovered-title": "Vurnayışi reyneyay",
 	"visualeditor-backbutton-tooltip": "Peyser şırê",
-	"visualeditor-browserwarning": "Rovıtero ke şıma karnenê tereftê Vurnayışê Asayi ra resmi desteg nêvine no.",
 	"visualeditor-ca-createlocaldescriptionsource": "Çımey şınasnayışê lokali cı ke",
 	"visualeditor-ca-createsource": "Çımeyi vıraze",
 	"visualeditor-ca-editlocaldescriptionsource": "Lokal şınasiya çımi bıvurnê",
@@ -102,7 +102,7 @@
 	"visualeditor-dialog-meta-languages-label": "Zıwani",
 	"visualeditor-dialog-meta-languages-link-label": "Pela gıreyıne",
 	"visualeditor-dialog-meta-languages-name-label": "Zıwan",
-	"visualeditor-dialog-meta-languages-readonlynote": "Ena yew lista zıwananê binana ke yew gıre ra bestiyê. Nıka, tenya çımeyê terzi de ya zi Wikidata de vurnayış beno.",
+	"visualeditor-dialog-meta-languages-readonlynote": "Ena yew lista zıwananê binana ke yew gıre ra bestiyê. Nıka, tenya çımeyê terzi de ya zi Wikidayıt de vurnayış beno.",
 	"visualeditor-dialog-meta-languages-section": "Zıwani",
 	"visualeditor-dialog-meta-settings-displaytitle": "Sernuşte",
 	"visualeditor-dialog-meta-settings-displaytitle-help": "Sernamey ena perrer herunda babetna ju etiketer asnayışa cı ravêrde şenê bıkarnê.",

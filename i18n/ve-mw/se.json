@@ -6,8 +6,9 @@
 			"Kimberli Mäkäräinen (WMNO)",
 			"Lea-Christine Sara",
 			"Trondtr",
+			"WMNO sámeprošeakta",
 			"Yupik",
-			"WMNO sámeprošeakta"
+			"Jon Harald Søby"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -35,7 +36,6 @@
 	"visualeditor-autosave-recovered-text": "Du vurkekeahtes rievdadusat leat máhcahuvvon automáhtalaččat.",
 	"visualeditor-autosave-recovered-title": "Rievdadusat máhcahuvvon",
 	"visualeditor-backbutton-tooltip": "Ruovttoluotta",
-	"visualeditor-browserwarning": "Dát rievdadanprográmma ii vealtakeahttá doaimma albmaláhkai dáinna neahttalohkkiin.",
 	"visualeditor-ca-createlocaldescriptionsource": "Lasit báikkálaš govvádusa gáldu",
 	"visualeditor-ca-createsource": "Ráhkat wikiteavsttain",
 	"visualeditor-ca-editlocaldescriptionsource": "Rievdat báikkálaš govvádusa gáldu",
@@ -51,6 +51,7 @@
 	"visualeditor-changedesc-mwtransclusion": "Málleparamehterat leat rievdaduvvon",
 	"visualeditor-desc": "MediaWiki visuála rievdadanprográmma",
 	"visualeditor-descriptionpagelink": "Project:Visuála rievdadanprográmma",
+	"visualeditor-dialog-extension-abandonedit": "Háliidatgo duođaid giddet dán láseža nu ahte it váldde atnui iežat rievdadusaid?",
 	"visualeditor-dialog-media-alttext-checkbox": "Geavat govvateavstta molssaevttolaš teakstan",
 	"visualeditor-dialog-media-alttext-section": "Molssaevttolaš teaksta",
 	"visualeditor-dialog-media-alttext-section-help": "Fealta geavahuvvo bagadallat mediaobjeavtta geavaheddjiide geat eai oainne dan. Bagadallan berre leat dan mađe dárkil ahte ipmirduvvojit dat oaivilat ja dieđut mat addojuvvojit. Dát lea dehálaš čalmmehemiide ja earáide geat geavahit šearbmalohkanprográmmaid dahje teakstavuđot neahttalohkkiid.",
@@ -318,6 +319,8 @@
 	"visualeditor-preference-tabs-prefer-ve": "Geavat álo visuála rievdadanprográmma dalle, go dat lea vejolaš",
 	"visualeditor-preference-tabs-prefer-wt": "Geavat álo wikiteavstta rievdadanprográmma",
 	"visualeditor-preference-tabs-remember-last": "Muitte dan editora mii lea maŋemusat leamaš anus",
+	"visualeditor-preference-collab-label": "Ovttasbargorievdadeapmi",
+	"visualeditor-preference-collab-description": "Bovde eará geavaheddjiid searvat rievdadanbargui visuála rievdadeamis.",
 	"visualeditor-rebase-client-export": "Olggosfievrrit",
 	"visualeditor-rebase-client-export-start": "Olggosfievrrit...",
 	"visualeditor-rebase-client-import": "Sisafievrrit",

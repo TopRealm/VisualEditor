@@ -12,6 +12,7 @@
 			"Galactic Thrasher",
 			"Jmarchn",
 			"Kippelboy",
+			"Lluis Cat",
 			"Maceleiro",
 			"Macofe",
 			"Mguix",
@@ -25,8 +26,7 @@
 			"TMg",
 			"Toniher",
 			"Unapersona",
-			"Vriullop",
-			"Lluis Cat"
+			"Vriullop"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -46,7 +46,6 @@
 	"visualeditor-autosave-recovered-text": "Els canvis no desats s'han recuperat automàticament.",
 	"visualeditor-autosave-recovered-title": "S'han recuperat els canvis",
 	"visualeditor-backbutton-tooltip": "Torna",
-	"visualeditor-browserwarning": "Esteu utilitzant un navegador que no està oficialment suportat per aquest editor",
 	"visualeditor-ca-createlocaldescriptionsource": "Afegeix codi de descripció en local",
 	"visualeditor-ca-createsource": "Crea codi",
 	"visualeditor-ca-editlocaldescriptionsource": "Modifica el codi de descripció local",
@@ -267,6 +266,8 @@
 	"visualeditor-mwpredialog-convert": "Permet estils de text",
 	"visualeditor-mwpredialog-title": "Text senzill preformatat",
 	"visualeditor-mwsignature-tool": "La vostra signatura",
+	"visualeditor-preference-visualeditor": "Activa l'editor visual",
+	"visualeditor-preference-newwikitexteditor-enable": "Utilitza el mode wikitext dins de l'editor visual, en comptes d'un editor de wikitext diferent",
 	"visualeditor-preference-tabs": "Pestanyes d'edició:",
 	"visualeditor-preference-tabs-multi-tab": "Mostra’m les dues opcions d’editor",
 	"visualeditor-preference-tabs-prefer-ve": "Sempre fes servir l’editor visual si és possible",
